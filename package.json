@@ -1,0 +1,40 @@
+{
+    "name": "reusify-ts",
+    "version": "0.0.5",
+    "homepage": "https://github.com/Aivyss/reusify-ts",
+    "files": [
+        "dist",
+        "src"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Aivyss/reusify-ts.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Aivyss/reusify-ts/issues",
+        "email": "hklee6417@gmail.com"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Aivyss",
+        "email": "hklee6417@gmail.com",
+        "url": "https://github.com/Aivyss"
+    },
+    "main": "dist/reusify.js",
+    "dependencies": {
+    },
+    "devDependencies": {
+        "@types/node": "^16.10.1",
+        "@typescript-eslint/eslint-plugin": "^4.32.0",
+        "@typescript-eslint/parser": "^4.32.0",
+        "eslint": "^7.32.0",
+        "eslint-config-airbnb": "^18.2.1",
+        "eslint-config-airbnb-base": "^14.2.1",
+        "eslint-plugin-import": "^2.24.2",
+        "prettier": "^2.4.1",
+        "tslint": "^5.20.1",
+        "tslint-config-airbnb": "^5.11.2",
+        "typescript": "^4.4.3",
+        "typescript-tslint-plugin": "^1.0.1"
+    }
+}
